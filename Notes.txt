@@ -1,0 +1,3 @@
+Recursion
+    Try to make the base case about the empty tree -> smalletst possible input
+    Solve a sub tree and then solve the whole tree recursively
